@@ -19,6 +19,7 @@ Contact cPacket Networks to obtain the SAS URLs utilized to deploy cPacket virtu
 In the Azure portal, open the Azure Cloud Shell by clicking on the icon in the upper right corner of the Azure portal.
 
 ![Open the shell](/static-assets/open-shell.png "Open the Azure cloud shell")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fccloud-tools-images.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fccloud-tools-images?ref=badge_shield)
 
 ### 3. Ensure Proper Cloud Shell Storage Configuration
 
@@ -69,3 +70,7 @@ After executing the script, you should have new resources in your resource group
 ![New resources](/static-assets/new-resources.png "cPacket Images")
 
 [cloudshell]: https://learn.microsoft.com/en-us/azure/cloud-shell/overview
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fccloud-tools-images.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fccloud-tools-images?ref=badge_large)
